@@ -1,2 +1,2 @@
 # A-cart
-An online shopping cart application which allows the users to choose from a wide range of products,add the necessary items in the cart,remove unwanted items from the cart and finally order the items.
+An online shopping cart application which allows the users to choose from a wide range of products,add the necessary items in the cart,remove unwanted items from the cart and finally order the items.The front-end framework for the web application is JSP while the back end framework is Servlet.The styling of the web pages is done by CSS and Bootstrap.It uses MYSQL as the underlying database and is run on Apache Tomcat Server
