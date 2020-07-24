@@ -1,0 +1,104 @@
+@charset "ISO-8859-1";
+.login-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.sign-up-form{
+    padding: 9%;
+    background:#282726;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.sign-up-form h1{
+    text-align: center;
+    margin-bottom:12%;
+    color:white;
+}
+.login-form,.address-details{
+    padding: 9%;
+    background: #f05837;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form h1{
+    text-align: center;
+    margin-bottom:12%;
+    color: #fff;
+}
+.btnSubmit{
+    font-weight: 600;
+    width: 50%;
+    color: #282726;
+    background-color: #fff;
+    border: none;
+    padding:2%;
+}
+.all-categories-image
+{
+	width:100px;
+	height:100px;
+}
+
+.apparels,.shoes,.books,.grocery,.beauty,.bags
+{
+	background-color:#d9d9d9;
+	margin-left:5px;
+	margin-right:5px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.apparels-container-0-0,.apparels-container-0-1,.shoes-container-0-0,.shoes-container-0-1,.books-container-0-0,.books-container-0-1,.grocery-container-0-0,.grocery-container-0-1,.beauty-container-0-0,.beauty-container-0-1,.bags-container-0-0,.bags-container-0-1
+{
+	margin-top:20px;
+}
+.apparels-container-1-0,.apparels-container-1-1,.shoes-container-1-0,.shoes-container-1-1,.books-container-1-0,.books-container-1-1,.grocery-container-1-0,.grocery-container-1-1,.beauty-container-1-0,.beauty-container-1-1,.bags-container-1-0,.bags-container-1-1
+{
+	margin-bottom:20px;
+}
+.products
+{
+	background-color:#a6b1e1;
+	margin-top:50px;
+	margin-bottom:100px;
+}
+.top-bar
+{
+	background-color:black;
+}
+.company-logo-image
+{
+	height:100px;
+	width:100px;
+	margin-top:10px;
+	margin-bottom:10px;
+	
+}
+.cart-logo-image
+{
+	height:100px;
+	width:100px;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.tshirts,.cart,
+{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.tshirt,.order-confirm,.order
+{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.total-amount-payable
+{
+	text-align:center;
+}
+.confirmed-order,.order
+{
+	margin-top:20px;
+	margin-bottom:20px;
+	background-color:#a6b1e1;
+}
+.logout
+{
+	text-align:center;
+}
